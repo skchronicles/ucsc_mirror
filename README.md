@@ -1,10 +1,10 @@
 # ucsc_mirror
 
-Mirror to commonly used UCSC applications that were built specifically for a Linux 64-bit machine.
+Mirror to commonly used UCSC tools (built specifically for Linux 64-bit machines).
 
-The applicaitons in this repo are a subset of all of UCSC's applications found [here](http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/).
+The tools in this repository are a subset of all of UCSC's applications found [here](http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/).
 
-Snapshot was taken on November 11th, 2020. The most commonly used applications have been included to provide a non-canonical snapshot of UCSC's tools.
+Snapshot was taken on November 2nd, 2020. As mentioned above, only most commonly used applications have been included. This is to provide a useful non-canonical snapshot of UCSC's tools while also reducing its overall size (all tools ~3.6 GB).
 
 Here is a list of included tools:
  - bedClip
@@ -113,4 +113,3 @@ Here is a list of included tools:
  - wigCorrelate
  - wigEncode
  - wigToBigWig
-
