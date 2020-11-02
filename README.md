@@ -1,0 +1,116 @@
+# ucsc_mirror
+
+Mirror to commonly used UCSC applications that were built specifically for a Linux 64-bit machine.
+
+The applicaitons in this repo are a subset of all of UCSC's applications found [here](http://hgdownload.soe.ucsc.edu/admin/exe/linux.x86_64/).
+
+Snapshot was taken on November 11th, 2020. The most commonly used applications have been included to provide a non-canonical snapshot of UCSC's tools.
+
+Here is a list of included tools:
+ - bedClip
+ - bedCommonRegions
+ - bedCoverage
+ - bedExtendRanges
+ - bedGeneParts
+ - bedGraphPack
+ - bedGraphToBigWig
+ - bedIntersect
+ - bedItemOverlapCount
+ - bedJoinTabOffset
+ - bedJoinTabOffset.py
+ - bedMergeAdjacent
+ - bedPartition
+ - bedPileUps
+ - bedRemoveOverlap
+ - bedRestrictToPositions
+ - bedSort
+ - bedToBigBed
+ - bedToExons
+ - bedToGenePred
+ - bedToPsl
+ - bedWeedOverlapping
+ - bigBedInfo
+ - bigBedNamedItems
+ - bigBedSummary
+ - bigBedToBed
+ - bigGenePredToGenePred
+ - bigMafToMaf
+ - bigPslToPsl
+ - bigWigAverageOverBed
+ - bigWigCat
+ - bigWigCluster
+ - bigWigCorrelate
+ - bigWigInfo
+ - bigWigMerge
+ - bigWigSummary
+ - bigWigToBedGraph
+ - bigWigToWig
+ - faAlign
+ - faCmp
+ - faCount
+ - faFilter
+ - faFilterN
+ - faFrag
+ - faNoise
+ - faOneRecord
+ - faPolyASizes
+ - faRandomize
+ - faRc
+ - faSize
+ - faSomeRecords
+ - faSplit
+ - fastqStatsAndSubsample
+ - fastqToFa
+ - faToFastq
+ - faToTab
+ - faToTwoBit
+ - faToVcf
+ - faTrans
+ - findMotif
+ - genePredCheck
+ - genePredFilter
+ - genePredHisto
+ - genePredSingleCover
+ - genePredToBed
+ - genePredToBigGenePred
+ - genePredToFakePsl
+ - genePredToGtf
+ - genePredToMafFrames
+ - genePredToProt
+ - gff3ToGenePred
+ - gff3ToPsl
+ - gtfToGenePred
+ - liftOver
+ - liftOverMerge
+ - liftUp
+ - mafAddIRows
+ - mafAddQRows
+ - mafCoverage
+ - mafFetch
+ - mafFilter
+ - mafFrag
+ - mafFrags
+ - mafGene
+ - mafMeFirst
+ - mafNoAlign
+ - mafOrder
+ - mafRanges
+ - mafsInRegion
+ - mafSpeciesList
+ - mafSpeciesSubset
+ - mafSplit
+ - mafSplitPos
+ - mafToAxt
+ - mafToBigMaf
+ - mafToPsl
+ - mafToSnpBed
+ - maskOutFa
+ - splitFile
+ - twoBitDup
+ - twoBitInfo
+ - twoBitMask
+ - twoBitToFa
+ - wigCorrelate
+ - wigEncode
+ - wigToBigWig
+
